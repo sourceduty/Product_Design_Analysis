@@ -58,7 +58,7 @@ Suggestions for Improvement:
 An Apple iPhone Product Design Trend Report (2007 - 2024) could be created.
 
 - Apple has released 42 different iPhone models since 2007.
-- Create and compare 42 diffferent Design Analysis Reports for a Design Analysis Trend Report.
+- Create and compare 42 different Design Analysis Reports for a Design Analysis Trend Report.
 
 ***
  Copyright (C) 2024, Sourceduty - All Rights Reserved.
