@@ -50,6 +50,91 @@ Suggestions for Improvement:
 <br>
 </details>
 
+<details><summary>Top 25 Products on Amazon (2024)</summary>
+<br>
+
+Trending Design Report for Top 25 Products on Amazon (2024)
+
+Design Overview
+
+The top-selling products on Amazon in 2024 showcase a diverse array of design elements that cater to both functional and aesthetic preferences of consumers. The analysis reveals significant trends that highlight the evolving tastes and needs in various product categories, from household essentials to technology and leisure items. The overarching theme is a seamless blend of vibrant aesthetics, comfort, and user-centric functionality.
+
+Design Criteria
+
+1. Color Palettes:
+
+   - Vibrant Colors: Predominantly used in leisure and children's products to attract attention and enhance appeal.
+   - Neutral Tones: Favored for household items and technology products to provide a modern and sophisticated look.
+
+2. Textures:
+
+   - Smooth Finishes: Common in tech gadgets and household appliances, contributing to a sleek and modern appearance.
+   - Soft Textures: Used in clothing, baby products, and leisure items to ensure comfort and a pleasant tactile experience.
+
+3. Ergonomics and Functionality:
+
+   - Ergonomic Designs: Emphasized in products that require frequent use, ensuring comfort and reducing user strain.
+   - Practical Features: Products are designed with user-friendly interfaces and functionalities that enhance ease of use.
+
+4. Modern Styles:
+
+   - Contemporary Aesthetics: Dominant in technology and smart home categories, reflecting minimalistic and streamlined designs that appeal to modern consumers.
+
+Performance Analysis
+
+Household Items:
+
+  - Color Trends: Neutral tones like white, beige, and grey are predominant, offering a clean and timeless look that complements various interior designs.
+  - Textures: Smooth finishes are common, providing ease of cleaning and maintenance.
+  - Design Features: Products like smart vacuums and kitchen appliances focus on integrating advanced technology with user-friendly features.
+
+Technology Products:
+
+  - Color Trends: Both vibrant and neutral colors are used, depending on the target demographic. For example, gaming accessories often feature vibrant hues, while laptops and smartphones stick to more subdued tones.
+  - Textures: Smooth, matte, and glossy finishes are prevalent, enhancing the premium feel of the devices.
+  - Design Features: Ergonomic designs are critical, with an emphasis on slim profiles, lightweight construction, and intuitive interfaces.
+
+Leisure and Children's Products:
+
+  - Color Trends: Bright and playful colors dominate, aimed at engaging and stimulating users, particularly children.
+  - Textures: Soft and safe materials are prioritized to ensure comfort and safety.
+  - Design Features: These products often incorporate interactive and engaging features to enhance user experience.
+
+Clothing and Baby Products:
+
+  - Color Trends: Soft pastels and vibrant colors are used to create visually appealing and trendy items.
+  - Textures: Soft, breathable fabrics are chosen for comfort and durability.
+  - Design Features: Focus on ergonomic fit and ease of wear, with additional practical features like adjustable straps and easy-to-clean materials.
+
+Suggestions for Improvement
+
+1. Enhanced Sustainability:
+
+   - Incorporate eco-friendly materials and sustainable manufacturing processes to meet the growing consumer demand for environmentally responsible products.
+
+2. Advanced Ergonomic Features:
+
+   - Further improve ergonomic aspects by leveraging advanced design tools and technologies to enhance user comfort and reduce fatigue.
+
+3. Customization Options:
+
+   - Offer more customization options to allow consumers to personalize their products, enhancing the user experience and satisfaction.
+
+4. Integration of Smart Features:
+
+   - Increase the integration of smart features in household and leisure products to provide added convenience and connectivity, aligning with the trend towards smart home ecosystems.
+
+Conclusion
+
+The top-selling products on Amazon in 2024 are marked by their vibrant colors, smooth textures, ergonomic designs, and modern styles. These trends illustrate a consumer preference for products that seamlessly blend practicality with aesthetic appeal. As consumer expectations continue to evolve, incorporating sustainable practices, advanced ergonomics, and customizable options will be key to maintaining relevance and satisfaction in the market.
+
+Dataset
+
+[Top 25 Products on Amazon (2024).csv](https://github.com/user-attachments/files/15524238/Top.25.Products.on.Amazon.2024.csv)
+
+<br>
+</details>
+
 #
 ### Design Analysis Trend Report
 
